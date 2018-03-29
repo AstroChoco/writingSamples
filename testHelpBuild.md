@@ -1,10 +1,12 @@
 # Test Help Build
 1. Make a working branch of the downloaded project.
+
     ```
     cd test-frontend
     git branch <working_branch_name>
     ```
 2. Switch to the working branch.
+
     ```
     git checkout <working_branch_name>
     ```
